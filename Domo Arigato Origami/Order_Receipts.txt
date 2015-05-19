@@ -1,0 +1,25 @@
+2015-05-01
+ Name Rory
+ 1 Lessons
+ Date of Lesson(s) 2nd June
+ Cost of Purchases $45.0
+ Cost of Lessons $25.0
+ Total Owing $70.0
+
+ 2015-05-01
+ Name: Rory
+ 1 Lessons
+ Date of Lesson(s) 
+ Cost of Purchases $45.0
+ Cost of Lessons $25.0
+ Total Owing $70.0
+
+ 2015-05-01
+ Name: Rory
+ 3 Lessons
+ Date of Lesson(s): 12 june
+ Frequency of lessons: Weekly
+ Cost of Purchases: $450.0
+ Cost of Lessons: $75.0
+ Total Owing: $525.0
+
